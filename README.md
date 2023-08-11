@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-My last newbie task on frontend mentor, simple product overview with price and description.
+My last newbie task on the frontend mentor platform, simple preview product with price and description.
 
 ### The challenge
 
